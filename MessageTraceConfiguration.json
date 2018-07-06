@@ -1,0 +1,5 @@
+{
+    "DaysToPull":6,
+    "OutputFolder":".\\logs\\",
+    "NotifyOnStartAndEnd":true
+}
